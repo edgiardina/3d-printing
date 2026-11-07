@@ -1,0 +1,6 @@
+*.scad text eol=lf
+*.md text eol=lf
+*.stl binary
+*.3mf binary
+*.step binary
+*.png binary

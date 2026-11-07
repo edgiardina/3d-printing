@@ -1,0 +1,6 @@
+# slicer output / temp
+*.gcode
+*.gcode.3mf
+*.bak
+Thumbs.db
+.DS_Store
